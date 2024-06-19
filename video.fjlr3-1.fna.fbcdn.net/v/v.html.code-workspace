@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../v.html"
+		},
+		{
+			"path": "../../../../xampp/htdocs/php"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "php"
+	}
+}
